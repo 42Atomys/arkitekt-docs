@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Home](README.md)
+* [Powered by Atomys](https://atomys.me)
 
