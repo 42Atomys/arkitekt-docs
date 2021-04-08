@@ -4,7 +4,7 @@ description: >-
   décrite ici
 ---
 
-# Configuration réseau en mode routed sur KVM
+# Configuration network host en mode routed sur KVM
 
 {% hint style="info" %}
 RAPPEL: Les serveurs sont sous Debian 10 avec KVM et qemu d'installer afin de pouvoir gérer des VMs et me familiariser avec l'outil KVM.
