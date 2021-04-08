@@ -4,7 +4,15 @@ description: Dans un premier temps voyons à quoi ressemble le réseau final
 
 # Présentation
 
-### Vue du réseau final
+## Sommaire
+
+{% page-ref page="presentation.md" %}
+
+{% page-ref page="configuration-reseau.md" %}
+
+{% page-ref page="configuration-reseau-kvm.md" %}
+
+## Vue du réseau final
 
 ![R&#xE9;seau final du home lab](../.gitbook/assets/network-summary.png)
 
