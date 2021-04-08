@@ -4,16 +4,16 @@ description: 'Amazing home page powered by amazing guy (https://atomys.me)'
 
 # Home
 
-## Why this site ?
+## Pourquoi ce site ?
 
-This documentation website is a garbage of all my docs over the years. I'm not the references of things, but I experiment somethings and write here.
+Ce site de documentation est une poubelle pour toutes mes docs a travers des années. Je ne suis pas une référence qui se prend pour le roi, j'expérimente des choses et note tout ici pour mes futurs implémentations ou pour aider des personnes qui sont en pleine recherche sur les sujets que j'ai traité.
 
-You are welcome to discuss about my notes directly on Github via issue if you see anything 🙂 
+Vous êtes les bienvenus pour discuter de ces notes directement sur GitHub avec les [Discussions](https://github.com/42Atomys/arkitekt-docs/discussions)  🙂 
 
-{% hint style="info" %}
-This page and website is always under construct. 
+{% hint style="success" %}
+Cette page et ce site est en perpétuel évolution.
 
-Any changes or feedback is good to take, do not hesitate.
+Tout changement ou feedback est bon a prendre n'hésitez pas !
 {% endhint %}
 
 
