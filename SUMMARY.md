@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
+* [Personal notes](https://docs.atomys.space/)
 * [Powered by Atomys](https://atomys.me)
 
 ## Home Lab
